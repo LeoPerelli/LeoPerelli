@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey there 👋
+
+### 📌 Projects:
+You can find some of my recent projects here:
+- [GPTnano](https://github.com/LeoPerelli/GPTnano) is an implementation of the GPT family from scratch
+- [MaskGIT](https://github.com/LeoPerelli/MaskGIT) is a reproduction of Google Research 2022 CVPR paper
+- [BayesianRepulsive]() is a JAX repulsive clustering algorithm 
+- [PyTFT](https://github.com/LeoPerelli/PyTFT) is a Python algorithm to estimate the Trifocal Tensor
+- [TrifocalSfM](https://github.com/LeoPerelli/SfM-Trifocal) is my master thesis to improve 3D reconstruction
+- ...and more!
+
+### 🎓 Education:
+- MSc in Mathematical Engineering - Statistical Learning track @ Politecnico di Milano
+- BS in Mathematical Engineering @ Politecnico di Milano
+
+
 
 <!--
 **LeoPerelli/LeoPerelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Currently enrolled in MSc in Mathematical Engineering - Statistical Learning track at Politecnico di Milano
-- BS in Mathematical Engineering at Politecnico di Milano
-
-Current and Past projects:
-- Bayesian Repulsive Mixture Models with Wasserstein Distance
-- GoogleBrain Ventilator 
-- Deep Learning and Neural Networks 
-
 
