@@ -4,7 +4,7 @@
 You can find some of my recent projects here:
 - [GPTnano](https://github.com/LeoPerelli/GPTnano) is an implementation of the GPT family from scratch
 - [MaskGIT](https://github.com/LeoPerelli/MaskGIT) is a reproduction of Google Research 2022 CVPR paper
-- [BayesianRepulsive]() is a JAX repulsive clustering algorithm 
+- [BayesianRepulsive](https://github.com/LeoPerelli/BayesMixtureModeling) is a JAX repulsive clustering algorithm 
 - [PyTFT](https://github.com/LeoPerelli/PyTFT) is a Python algorithm to estimate the Trifocal Tensor
 - [TrifocalSfM](https://github.com/LeoPerelli/SfM-Trifocal) is my master thesis to improve 3D reconstruction
 - ...and more!
