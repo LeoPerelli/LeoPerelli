@@ -1,5 +1,9 @@
 ### Hey there 👋
 
+<!--
+**LeoPerelli/LeoPerelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 ### 📌 Projects:
 You can find some of my recent projects here:
 - [GPTnano](https://github.com/LeoPerelli/GPTnano) is an implementation of the GPT family from scratch
@@ -12,9 +16,4 @@ You can find some of my recent projects here:
 ### 🎓 Education:
 - MSc in Mathematical Engineering - Statistical Learning track @ Politecnico di Milano
 - BS in Mathematical Engineering @ Politecnico di Milano
-
-
-
-<!--
-**LeoPerelli/LeoPerelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
