@@ -1,5 +1,8 @@
 ### Hey there 👋
 
+GoogleScholar: https://scholar.google.com/citations?user=Uyq0yK8AAAAJ&hl=
+Linkedin: https://www.linkedin.com/in/leonardo-perelli/
+
 <!--
 **LeoPerelli/LeoPerelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
