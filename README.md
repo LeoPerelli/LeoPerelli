@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-GoogleScholar: https://scholar.google.com/citations?user=Uyq0yK8AAAAJ&hl=
+GoogleScholar: https://scholar.google.com/citations?user=Uyq0yK8AAAAJ&hl= \n
 Linkedin: https://www.linkedin.com/in/leonardo-perelli/
 
 <!--
